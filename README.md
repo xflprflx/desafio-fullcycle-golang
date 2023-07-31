@@ -4,5 +4,5 @@
 
 ## Rode o comando para obter o resultado
 ```bash
-docker run xflprflx/fullcycle
+docker run --rm xflprflx/fullcycle
 ```
